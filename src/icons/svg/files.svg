@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图片文件夹</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="项目要素编辑" transform="translate(-1645.000000, -173.000000)">
+            <g id="编组-9" transform="translate(1640.000000, 173.000000)">
+                <g id="图片" transform="translate(5.000000, 0.000000)">
+                    <path d="M14.78125,7.5625 L31.40625,7.5625 C33.615389,7.5625 35.40625,9.353361 35.40625,11.5625 L35.40625,20.625 L35.40625,20.625 L14.78125,20.625 L14.78125,7.5625 Z" id="Rectangle" fill="#E6C187"></path>
+                    <rect id="Rectangle-44" x="0" y="0" width="44" height="44"></rect>
+                    <path d="M8.8125,5.5 L14.1384159,5.5 C14.8969856,5.5 15.6399172,5.71570063 16.280541,6.12193841 L20.8239785,9.00306159 C21.4646023,9.40929937 22.207534,9.625 22.9661036,9.625 L35.1875,9.625 C37.396639,9.625 39.1875,11.415861 39.1875,13.625 L39.1875,30.375 C39.1875,32.584139 37.396639,34.375 35.1875,34.375 L8.8125,34.375 C6.603361,34.375 4.8125,32.584139 4.8125,30.375 L4.8125,9.5 C4.8125,7.290861 6.603361,5.5 8.8125,5.5 Z" id="Rectangle-45" fill="#FFD796"></path>
+                    <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="2" x="14.0625" y="16.46875" width="16.90625" height="11.40625" rx="4"></rect>
+                    <polygon id="Combined-Shape" fill="#FFFFFF" points="25.0421631 20.014169 30.3057856 27.15625 15.46875 27.15625 19.1775742 23.5228026 21.8985754 24.5583876"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" cx="17.703125" cy="19.421875" r="1.203125"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

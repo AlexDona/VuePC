@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <!-- 去除icon边距 -->
+<svg width="100px" height="84px" viewBox="0 0 100 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <path d="M29,6 L85,6 C87.209139,6 89,7.790861 89,10 L89,44 L89,44 L29,44 L29,6 Z" id="Rectangle"></path>
+            <path d="M4,0 L29.3470569,0 C30.1056266,1.94005782e-14 30.8485583,0.215700633 31.489182,0.62193841 L48.4512384,11.3780616 C49.0918622,11.7842994 49.8347939,12 50.5933635,12 L96,12 C98.209139,12 100,13.790861 100,16 L100,80 C100,82.209139 98.209139,84 96,84 L4,84 C1.790861,84 2.705415e-16,82.209139 0,80 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-45" fill="#FFD796"></path>
+            <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="2" x="25" y="30" width="53" height="37" rx="4"></rect>
+            <polygon id="Combined-Shape" fill="#FFFFFF" points="58.849929 42.2230372 74.1622854 63 31 63 41.7893067 52.4299711 49.7049467 55.442582"></polygon>
+            <circle id="Oval" fill="#FFFFFF" cx="37.5" cy="40.5" r="3.5"></circle>
+        </g>
+    </g>
+</svg>
