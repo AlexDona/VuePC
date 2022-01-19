@@ -1,0 +1,32 @@
+<template>
+  <div>
+    <!-- 产品列表--查看页 -->
+    <commonProduct />
+  </div>
+</template>
+
+<script>
+export default {
+  name: '',
+  components: {
+    commonProduct: resolve => require(['./commonProduct'], resolve)
+  },
+  // 定义属性
+  data() {
+    return {
+    }
+  },
+  computed: {
+  },
+  watch: {},
+  created() {
+  },
+  mounted() {
+  },
+  methods: {
+  }
+}
+</script>
+
+<style scoped>
+</style>
