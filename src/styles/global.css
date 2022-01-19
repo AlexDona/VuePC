@@ -1,0 +1,36 @@
+/*float*/
+.clear {clear:both; height:0; font-size:0;margin: 0;padding: 0;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{zoom:1;clear: both;}/*解决ie6/7兼容问题*/
+.fl{float:left;} .fr {float:right;}
+/*align*/
+.tl{text-align: left;}  .tc {text-align: center;}  .tr{text-align: right;}.vTop{vertical-align: top;}.vMiddle{vertical-align: middle;}.vBottom{vertical-align: bottom;}
+/*margin*/
+.mt5{ margin-top:5px;}.mt10{ margin-top:10px;}.mt15{margin-top:15px;}  .mt20{ margin-top:20px;}  .mt30{ margin-top:30px;}.mt24{ margin-top: 24px; }.mt48{ margin-top: 48px; }
+.mb5{margin-bottom: 5px;}.mb10{ margin-bottom:10px;}  .mb20{ margin-bottom:20px;}  .mb30{ margin-bottom:30px;}.mb0{margin-bottom: 0px;}
+.mr5{ margin-right:5px;}.mr10{ margin-right:10px !important;}.mr20{ margin-right:20px;}.mr30{ margin-right:30px !important;}.mr15{margin-right: 15px;}
+.ml5{ margin-left:5px;}.ml10{ margin-left:10px;}.ml20{ margin-left:20px;}.ml30{ margin-left:30px;}
+
+/*padding*/
+.pd5{padding:5px;}.pd10{padding:10px;}.pd15{ padding: 15px;}.pd0-15{ padding: 0 15px; }.pd20{padding:20px;}.pd30{padding:30px;}
+.pt5{padding-top:5px;}.pt10{padding-top: 10px;} .pt20{padding-top: 20px;}.pt30{padding-top: 30px;}.pt40{ padding-top: 40px;}
+.pb5{padding-bottom:5px;}.pb10{padding-bottom: 10px;} .pb20{padding-bottom: 20px;}.pb30{padding-bottom: 30px;}
+.pr5{padding-right:5px;}.pr10{padding-right:10px;}.pr20{padding-right:20px;}.pr30{padding-right:30px;}
+.pl5{padding-left:5px;}.pl10{padding-left:10px;}.pl20{padding-left:20px;}.pl30{padding-left:30px;}
+/*font*/
+.f15px{font-size: 15px;}.f36px{ font-size: 36px;}.f20px{font-size: 20px;}.f24px{font-size: 24px;}
+.f12px{font-size:12px;}.f13px{font-size: 13px;}  .f14px{font-size:14px;}  .f16px{font-size:16px;}  .f18px{font-size:18px;}  .f22px{font-size:22px;}  .f26px{font-size:26px;}.f30px{font-size: 30px;}  .f32px{font-size:32px;}
+/*color*/
+.gray3{color:#333;}  .gray6{color:#666;}  .gray9 {color: #999;}.gray4b{color:#4b4b4b;}  .red{color:#fb5454;}  .blue{color:#2B6DF5;}  .orange {color:#ff7700;}  .green {color: #2ac97c;}
+.white{color:#FFFFFF;} .deepBlue{color:#042854}
+.redBg{ background-color: #fb5454;}.blueBg{ background-color: #2B6DF5;} .orangeBg{ background-color: #ff7700}
+/*font-weight*/
+.fb,.bold{font-weight: bold;}
+.fn{font-weight:normal}
+.inBlock{display: inline-block;}.block{display: block !important;}
+.full-width{width: 100%;}
+.whiteBg{ background-color: #FFF; }
+.has-gutter th{ background-color: #ededed}
+/* 关于texteara的换行 */
+.preLine{white-space: pre-line;}
+

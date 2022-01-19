@@ -1,0 +1,10 @@
+.tags-view-container .tags-view-wrapper .tags-view-item.active{
+  border-top: 2px solid var(--theme) !important;
+  color: var(--theme) !important;
+  font-weight: 500 !important;
+  background-color: #ffffff !important;
+  margin-top: 2px;
+}
+.tags-view-container .tags-view-wrapper .tags-view-item{
+  border-radius: 0 0 2px 2px;
+}

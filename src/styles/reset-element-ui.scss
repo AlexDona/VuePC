@@ -1,0 +1,14 @@
+// 此文件用来重置element ui 全局样式，慎用！！！
+
+.el-form-item__error{
+  padding-top: 2px !important;
+}
+.el-table__fixed-right{
+  right: 7px !important;
+}
+.el-table thead tr th {
+  background: #F2F5FF !important;
+}
+.el-table .el-table__row {
+  height: 57px;
+}
